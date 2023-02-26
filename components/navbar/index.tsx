@@ -5,7 +5,7 @@ import styles from './style';
 export default function Navbar() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
+      <Text style={styles.title}>Taskmanager</Text>
       <StatusBar style="auto" />
     </View>
   );
