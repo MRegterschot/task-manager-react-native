@@ -6,8 +6,10 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: colors.background,
     alignItems: 'center',
-    justifyContent: 'center',
+    justifyContent: 'space-between',
+    padding: '10%',
     paddingTop: 40,
+    flexDirection: 'row',
   },
   title: {
     display: 'flex',
@@ -15,7 +17,6 @@ const styles = StyleSheet.create({
     fontSize: 24,
     fontWeight: 'bold',
     justifyContent: 'flex-start',
-    width: '80%',
   },
 });
 
