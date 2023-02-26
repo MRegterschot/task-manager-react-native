@@ -7,6 +7,7 @@ const styles = StyleSheet.create({
     backgroundColor: colors.background,
     alignItems: 'center',
     justifyContent: 'center',
+    paddingBottom: 40,
   },
   text: {
     color: colors.accent,

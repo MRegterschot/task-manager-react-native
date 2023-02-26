@@ -6,7 +6,7 @@ export default function Navbar() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Taskmanager</Text>
-      <StatusBar style="auto" />
+      <StatusBar style='light'/>
     </View>
   );
 }

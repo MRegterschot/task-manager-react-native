@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     justifyContent: 'flex-start',
     width: '80%',
-  }
+  },
 });
 
 export default styles;
